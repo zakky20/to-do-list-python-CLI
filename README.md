@@ -1,2 +1,2 @@
-# to-do-list-python-CLI
-this is a to do list made in python that works with CLI
+cd where you download
+run `python to-do-list.py` in terminal
