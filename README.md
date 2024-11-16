@@ -1,2 +1,2 @@
 cd where you download
-run `python to-do-list.py` in terminal
+run `python3 to-do-list.py` in terminal
